@@ -35,8 +35,6 @@ author_profile: true
 * T.A.: Capstone Project (2016-2)
 * T.A.: Introduction to Automatic Control (2012-1)
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
