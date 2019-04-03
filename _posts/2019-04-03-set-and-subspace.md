@@ -1,6 +1,6 @@
 ---
 title:  "Sets and Subspaces"
-date: 2016-09-27
+date: 2019-04-03
 permalink: /posts/2019-04-set-and-subspace/
 categories: 수학
 tags: Linear-algebra
