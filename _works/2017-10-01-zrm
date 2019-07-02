@@ -6,6 +6,7 @@ permalink: /works/2017-10-01-zrm/
 date: 2017-10-01
 ---
 
-MATLAB Code for the dynamic model of Sendzimir mill (ZRM)
+MATLAB Code for the dynamic model of Sendzimir mill (ZRM)\
+
 Linear model [file1](https://positiveban.github.io/files/codes/ZRM_sim_lin.zip)
 Nonlinaer model [file2](https://positiveban.github.io/files/codes/ZRM_sim_nonlin.zip)
