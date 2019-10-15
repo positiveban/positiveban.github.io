@@ -16,7 +16,7 @@ author_profile: true
 * W.K. Kwon, __J. Ban__, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, 2017. 
 
 ### Conference Articles
-* __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power fLow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
+* __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power Flow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
 * M. Seo, __J. Ban__, S.W. Kim, *Vertex-wise NLMS Algorithm for Signal Reconstruction of DC Power Flow*, IEEE PES Asia-Pacific Power and Energy Engineering Conference, Macao, China, 2019.
 * __J. Ban__, S.W. Kim, *Design of Reset Control for SISO Linear Systems*, IEEE International Conference on Control and Automation, Edinburg, Scotland, 2019.
 * __J. Ban__, W.K. Kwon, S.W. Kim, *Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control*, American Control Conference. IEEE, Seattle, USA, 2017.
