@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher
+Postdoctoral Research Accociate
 
 [Energy System Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
 Department of Electrical Engineering  
