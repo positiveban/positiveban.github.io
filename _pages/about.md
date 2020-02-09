@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Post-Doctoral Researcher
+Postdoctoral Researcher
 
 Energy System Laboratory  
 Department of Electrical Engineering  
