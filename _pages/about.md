@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD Candidate
+Post-Doctoral Researcher
 
-Intelligent Control and System Laboratory  
+Energy System Laboratory  
 Department of Electrical Engineering  
 POSTECH  
 Cheongam-ro 77  
@@ -23,9 +23,9 @@ E-mail: banjp117(at)postech.ac.kr
 Brief Biography
 ===============
 
-Jaepil Ban is currently pursuing PhD degree in Pohang University of science and technology, South Korea. 
+Jaepil Ban is currently with Department of Electrical Engineering in Pohang University of science and technology as a PostDoc, South Korea. 
 
-He received Bachelor's degree in Electronic and electrical engineering from Ajou university in February 2012. During his bachelor's degree, he awarded honor scholarships in 2009-1, 2010-1, 2010-2, 2011-1, and 2011-2. His research interests include: control and stability analysis of nonlinear dynamical systems such as hybrid systems, switched/impulsive systems, reset control systems, networked control systems, chaotic systems, and industrial control systems. He is currently interested in modern power systems including smart grids and microgrids with renewable energy sources. 
+He received Ph.D. degree in Electrical Engineering from POSTECH in February 2020 and Bachelor's degree in Electronic and electrical engineering from Ajou university in February 2012. During his bachelor's degree, he awarded honor scholarships in 2009-1, 2010-1, 2010-2, 2011-1, and 2011-2. His research interests include: control and stability analysis of nonlinear dynamical systems such as hybrid systems, switched/impulsive systems, reset control systems, networked control systems, chaotic systems, and industrial control systems. He is currently interested in modern power systems including smart grids and microgrids with renewable energy sources. 
 
 Selected publications
 =====================
