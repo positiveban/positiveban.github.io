@@ -8,7 +8,7 @@ author_profile: true
 ### Journal Articles
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
-* __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under preparation*
+* __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Submitted*
 * H. Lee, H. Jeong, G. Koo, __J. Ban__, S.W. Kim, "Attention-based RNN Diagnosis Method for Interturn Short-Circuit Fault in PMSMs", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", Automatica, 111, 2020.
