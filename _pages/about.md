@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Research Accociate
 
-[Energy System Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
+[Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
 Department of Electrical Engineering  
 POSTECH  
 Cheongam-ro 77  
