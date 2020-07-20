@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Journal Articles
+* __J. Ban__, J. Im, Y.J. Kim, "Decentralization of Phasor-Aided State Estimation Using Local State Vector Extension", *Under Review*
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
