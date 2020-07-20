@@ -10,12 +10,12 @@ author_profile: true
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
-* H. Lee, H. Jeong, G. Koo, __J. Ban__, S.W. Kim, "Attention-based RNN Diagnosis Method for Interturn Short-Circuit Fault in PMSMs", IEEE Transactions on Industrial Electronics, *In press*
+* H. Lee, H. Jeong, G. Koo, __J. Ban__, S.W. Kim, "Attention-based RNN Diagnosis Method for Interturn Short-Circuit Fault in PMSMs", __IEEE Transactions on Industrial Electronics__, *In press*
 * __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
-* __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", Automatica, 111, 2020.
-* __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", Nonlinear Analysis: Hybrid Systems 29: 348-362, 2018.
-* S.H. Kim, M.S. Seo, __J. Ban__, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", ISIJ International, 57.11: 2016-2021, 2017.
-* W.K. Kwon, __J. Ban__, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, 2017. 
+* __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", __Automatica__, 111, 2020.
+* __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", __Nonlinear Analysis: Hybrid Systems__ 29: 348-362, 2018.
+* S.H. Kim, M.S. Seo, __J. Ban__, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", __ISIJ International__, 57.11: 2016-2021, 2017.
+* W.K. Kwon, __J. Ban__, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", __Mathematical Problems in Engineering__, 2017. 
 
 ### Conference Articles
 * __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power Flow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
