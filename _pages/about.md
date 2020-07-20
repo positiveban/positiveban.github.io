@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Accociate
+Postdoctoral Research Associate
 
 [Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
 Department of Electrical Engineering  
@@ -29,8 +29,9 @@ He received Ph.D. degree in Electrical Engineering from POSTECH in February 2020
 
 Selected publications
 =====================
-* __J. Ban__, S.W. Kim, "Reachability and State-Feedback Stabilization of Descriptor Impulsive Linear Systems", IEEE Transactions on Automatic Control, *Under Review*
-* __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", Automatica, *Under Review*
+* __J. Ban__, J. Im, Y.J. Kim, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", IEEE Transactions on Power Systems, *Under Review*
+* __J. Ban__, S.W. Kim, "Reachability and State-Feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
+* __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", Automatica, 111, 2020.
 * __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", Nonlinear Analysis: Hybrid Systems 29: 348-362, 2018.
 * __J. Ban__, W.K. Kwon, S.W. Kim, "  Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control", American Control Conference. IEEE, 2017.
