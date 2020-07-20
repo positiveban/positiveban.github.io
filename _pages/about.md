@@ -29,10 +29,10 @@ He received Ph.D. degree in Electrical Engineering from POSTECH in February 2020
 
 Selected publications
 =====================
-* __J. Ban__, J. Im, Y.J. Kim, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", IEEE Transactions on Power Systems, *Under Review*
+* __J. Ban__, J. Im, Y.J. Kim, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, *Under Review*
 * __J. Ban__, S.W. Kim, "Reachability and State-Feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
-* __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", Automatica, 111, 2020.
-* __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", Nonlinear Analysis: Hybrid Systems 29: 348-362, 2018.
-* __J. Ban__, W.K. Kwon, S.W. Kim, "  Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control", American Control Conference. IEEE, 2017.
+* __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", __Automatica__, 111, 2020.
+* __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", __Nonlinear Analysis: Hybrid Systems__ 29: 348-362, 2018.
+* __J. Ban__, W.K. Kwon, S.W. Kim, "  Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control", __American Control Conference__. IEEE, 2017.
 * __J. Ban__, W.K. Kwon, S. Won, "Fault estimation and fault-tolerant control of vapor compression cycle systems." Industrial Electronics Society, IECON 2015-41st Annual Conference of the IEEE. IEEE, 2015.
