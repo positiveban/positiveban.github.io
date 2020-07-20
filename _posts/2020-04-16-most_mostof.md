@@ -1,5 +1,5 @@
 ---
-title: "that vs. which"
+title: "most vs. most of"
 date: 2020-04-16
 permalink: /posts/2020/04/mostmostof/
 categories: 영문법
