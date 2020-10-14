@@ -1,6 +1,6 @@
 ---
 title: "Numbers in Academic Papers"
-date: 2020-09-29
+date: 2020-10-13
 permalink: /posts/2020/10/numbers_in_aca_papers/
 categories: English
 tags: words or numerals?
