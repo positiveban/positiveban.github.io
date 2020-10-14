@@ -1,5 +1,5 @@
 ---
-title: "literature vs. the literature"
+title: "Entropy, Cross entropy, and KL divergence "
 date: 2020-09-29
 permalink: /posts/2020/09/cross_entropy/
 categories: Machine Learning
