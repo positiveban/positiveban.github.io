@@ -5,13 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 ### Journal Articles
-* __J. Ban__, J. Im, Y.J. Kim, "Decentralization of Phasor-Aided State Estimation Using Local State Vector Extension", *Under Review*
+* __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "AMI-based Estimation of Single- and Three-phase Line Impedances in Distribution Networks", __IEEE Transactions on Power Systems__, *Under preparation*
+* __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, *Accepted*
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
-* H. Lee, H. Jeong, G. Koo, __J. Ban__, S.W. Kim, "Attention-based RNN Diagnosis Method for Interturn Short-Circuit Fault in PMSMs", __IEEE Transactions on Industrial Electronics__, *In press*
-* __J. Ban__, M. Seo, S.W. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
+* H. Lee, H. Jeong, G. Koo, __J. Ban__, S.W. Kim, "Attention-based RNN Diagnosis Method for Interturn Short-Circuit Fault in PMSMs", __IEEE Transactions on Industrial Electronics__ 68.4: 3445-3453, 2020, 
+* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", __Automatica__, 111, 2020.
 * __J. Ban__, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", __Nonlinear Analysis: Hybrid Systems__ 29: 348-362, 2018.
 * S.H. Kim, M.S. Seo, __J. Ban__, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", __ISIJ International__, 57.11: 2016-2021, 2017.
