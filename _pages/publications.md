@@ -34,8 +34,8 @@ author_profile: true
 * __J. Ban__, J. Lee, S. Won *Synchronization of two different chaotic systems using terminal sliding mode with disturbance observer* (2013) Proceedings of the SICE Annual Conference, pp. 2575-2580. 
 
 ### Projects
-* Design of Alpha Grid Platform and Research on Components technology (Energy scheduling with faulty energy sources), Korea Electric Power Cooperation (KEPCO) (18.03~Current)
-* Modeling, identification and control of indirect-fired annealing furnace, POSCO (18.03~Current)
+* Design of Alpha Grid Platform and Research on Components technology (Energy scheduling with faulty energy sources), Korea Electric Power Cooperation (KEPCO) (18.03~21.02)
+* Modeling, identification and control of indirect-fired annealing furnace, POSCO (18.03~20.02)
 * Development of Simulator for Senzimir Mill and Improvement on Control algorithm, POSCO (17.06~18.03)
 * Lighting for Vision System Algorithm for Automatic welding in shipbuilding process, Samsung Heavy Industry (16.05~16.08)
 * Real-time control of Finishing mill for lateral movement of a strip by using Programmable logic controller (PLC), POSCO (14.12~15.09)
