@@ -30,7 +30,7 @@ He received Ph.D. degree in Electrical Engineering from POSTECH in February 2020
 Selected publications
 =====================
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "AMI-based Estimation of Single- and Three-phase Line Impedances in Distribution Networks", __IEEE Transactions on Power Systems__, *Under preparation*
-* __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, *Accepted*
+* __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, Early Access
 * __J. Ban__, S.W. Kim, "Reachability and State-Feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", __Automatica__, 111, 2020.
