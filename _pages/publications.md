@@ -9,7 +9,7 @@ author_profile: true
 
 ### Journal Articles
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "AMI-based Estimation of Single- and Three-phase Line Impedances in Distribution Networks", __IEEE Transactions on Power Systems__, *Under preparation*
-[* __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, Early Access](https://doi.org/10.1109/TPWRS.2021.3068607)
+* [__J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, Early Access](https://doi.org/10.1109/TPWRS.2021.3068607)
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
