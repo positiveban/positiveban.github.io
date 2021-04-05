@@ -8,7 +8,7 @@ author_profile: true
 
 
 ### Journal Articles
-* __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "AMI-based Estimation of Single- and Three-phase Line Impedances in Distribution Networks", __IEEE Transactions on Power Systems__, *Under preparation*
+* __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
 * __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__, Early Access [(Link)](https://doi.org/10.1109/TPWRS.2021.3068607)
 * M. Seo, __J. Ban__, B. Y. Koo and S. W. Kim, "Static Model Identification for Sendzimir Rolling Mill Using Noise Corrupted Operation Data," __IEEE Access__, vol. 8, pp. 150685-150695, 2020 [(Link)](https://doi.org/10.1109/ACCESS.2020.3017025)
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
