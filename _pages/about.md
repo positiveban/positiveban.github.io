@@ -10,7 +10,8 @@ redirect_from:
 
 Postdoctoral Research Associate
 
-[Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
+[Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)
+[Intelligent Control and Systems Laboratory](https://icsl.postech.ac.kr/) during Ph.D.
 Department of Electrical Engineering  
 POSTECH  
 Cheongam-ro 77  
