@@ -27,7 +27,7 @@ Jaepil Ban is currently with Department of Electrical Engineering in Kumoh Natio
 He received the Ph.D. degree in Electrical Engineering from POSTECH in February 2020 and Bachelor's degree in Electronic and electrical engineering from Ajou university in February 2012. During his bachelor's degree, he awarded honor scholarships in 2009-1, 2010-1, 2010-2, 2011-1, and 2011-2. He was selected as a BK21 post-doctoral fellow in 2020 (3 out of 16 in the EE department of POSTECH). His research interests include: control and stability analysis of nonlinear dynamical systems such as hybrid systems, switched/impulsive systems, reset control systems, networked control systems, chaotic systems, and industrial control systems. He is currently interested in modern power systems including smart grids and microgrids with renewable energy sources. 
 
 During PostDoc: [Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
-During Ph.D.: [Intelligent Control and Systems Laboratory](https://icsl.postech.ac.kr/)  
+During Ph.D: [Intelligent Control and Systems Laboratory](https://icsl.postech.ac.kr/)  
 
 Selected publications
 =====================
