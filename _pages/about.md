@@ -10,7 +10,7 @@ redirect_from:
 
 Assistant Professor
 
-[]
+[Intelligent Control and Automation Laboratory](https://sites.google.com/view/icalkit/home)
 [Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
 [Intelligent Control and Systems Laboratory](https://icsl.postech.ac.kr/) during Ph.D.  
 Department of Electrical Engineering
