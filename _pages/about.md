@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Associate
+Assistant Professor
 
+[]
 [Energy Systems Laboratory](https://sites.google.com/view/youngjinkim/home?authuser=0)  
 [Intelligent Control and Systems Laboratory](https://icsl.postech.ac.kr/) during Ph.D.  
-Department of Electrical Engineering  
-POSTECH  
-Cheongam-ro 77  
-Pohang 37673  
+Department of Electrical Engineering
+Kumoh National Institute of Technology  
+Daehak-ro 61
+Gumi 39177 
 South Korea.  
 
-TEL: +82-54-279-5018  
-E-mail: banjp117(at)postech.ac.kr  
+TEL: +82-54-478-7459  
+E-mail: jpban(at)kumoh.ac.kr  
 
 Brief Biography
 ===============
 
-Jaepil Ban is currently with Department of Electrical Engineering in Pohang University of Science and Technology as a PostDoc. 
+Jaepil Ban is currently with Department of Electrical Engineering in Kumoh National Institute of Technology as a Assistant Professor. 
 
 He received the Ph.D. degree in Electrical Engineering from POSTECH in February 2020 and Bachelor's degree in Electronic and electrical engineering from Ajou university in February 2012. During his bachelor's degree, he awarded honor scholarships in 2009-1, 2010-1, 2010-2, 2011-1, and 2011-2. He was selected as a BK21 post-doctoral fellow in 2020 (3 out of 16 in the EE department of POSTECH). His research interests include: control and stability analysis of nonlinear dynamical systems such as hybrid systems, switched/impulsive systems, reset control systems, networked control systems, chaotic systems, and industrial control systems. He is currently interested in modern power systems including smart grids and microgrids with renewable energy sources. 
 
