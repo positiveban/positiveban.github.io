@@ -8,11 +8,6 @@ author_profile: true
 
 
 ### Journal Articles
-* __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
-* __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
-* __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
-* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
-* __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
 * J.Y. Park, __J. Ban__, Y.J. Kim, J.P.S. Catalão, "Supplementary Feedforward Voltage Control in a Reconfigurable Distribution Network using Robust Optimization", __IEEE Transactions on Power Systems__ 99, 1-12, 2022
 * J.Y. Park, __J. Ban__, Y.J. Kim, X. Lu, "Supplementary Feedforward Control of DGs in a Reconfigurable Microgrid for Load Restoration", __IEEE Transactions on Smart Grid__ 12(6), 4641-4654, 2021 [(Link)](https://doi.org/10.1109/TSG.2021.3098570)
 * M. Seo, __J. Ban__, M. Cho, B. Y. Koo, S. W. Kim, "Low-Order Model Identification and Adaptive Observer-Based Predictive Control for Strip Temperature of Heating Section in Annealing Furnace," __IEEE Access__, vol. 9, pp. 53720-53734, 2021 [(Link)](https://doi.org/10.1109/ACCESS.2021.3071124)
@@ -24,6 +19,13 @@ author_profile: true
 * S.H. Kim, M.S. Seo, __J. Ban__, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", __ISIJ International__, 57.11: 2016-2021, 2017 [(Link)](https://doi.org/10.2355/isijinternational.ISIJINT-2017-215) 
 * W.K. Kwon, __J. Ban__, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", __Mathematical Problems in Engineering__, 2017 [(Link)](https://doi.org/10.1155/2017/7343575)
 
+### Journal Articles (in progress)
+* __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
+* __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
+* __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
+* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
+* __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
+* 
 ### Conference Articles
 * __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power Flow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
 * M. Seo, __J. Ban__, S.W. Kim, *Vertex-wise NLMS Algorithm for Signal Reconstruction of DC Power Flow*, IEEE PES Asia-Pacific Power and Energy Engineering Conference, Macao, China, 2019.
