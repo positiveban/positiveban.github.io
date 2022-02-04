@@ -24,6 +24,7 @@ author_profile: true
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", *Under Review*
+* H. Lee, __J. Ban__, S.W. Kim, "Microgrid Optimal Scheduling Considering Remaining Useful Life and Performance Degradation of Distributed Generators", *Under Review*
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
 * 
 ### Conference Articles
