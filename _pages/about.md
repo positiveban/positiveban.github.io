@@ -10,7 +10,7 @@ redirect_from:
 
 Assistant Professor
 
-[Intelligent Control and Automation Laboratory](https://sites.google.com/view/icalkit/home)  
+[Intelligent Control and Automation Laboratory](https://sites.google.com/view/ical-kit/)  
 Department of Electrical Engineering
 Kumoh National Institute of Technology  
 Daehak-ro 61
