@@ -8,6 +8,8 @@ author_profile: true
 
 
 ### Journal Articles
+* S. Jeong, __J. Ban__, "Robust Dynamic Output Feedback Event-Triggering Synchronization for Complex Dynamical Networks," __IEEE Access__, Early Access
+* H. Lee, __J. Ban__, S.W. Kim, "Microgrid Optimal Scheduling Considering Remaining Useful Life and Performance Degradation of Distributed Generators", __IEEE Access__, Early Access
 * J.Y. Park, __J. Ban__, Y.J. Kim, J.P.S. Catalão, "Supplementary Feedforward Voltage Control in a Reconfigurable Distribution Network using Robust Optimization", __IEEE Transactions on Power Systems__ 99, 1-12, 2022
 * J.Y. Park, __J. Ban__, Y.J. Kim, X. Lu, "Supplementary Feedforward Control of DGs in a Reconfigurable Microgrid for Load Restoration", __IEEE Transactions on Smart Grid__ 12(6), 4641-4654, 2021 [(Link)](https://doi.org/10.1109/TSG.2021.3098570)
 * M. Seo, __J. Ban__, M. Cho, B. Y. Koo, S. W. Kim, "Low-Order Model Identification and Adaptive Observer-Based Predictive Control for Strip Temperature of Heating Section in Annealing Furnace," __IEEE Access__, vol. 9, pp. 53720-53734, 2021 [(Link)](https://doi.org/10.1109/ACCESS.2021.3071124)
@@ -24,9 +26,9 @@ author_profile: true
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", __International Journal of Robust and Nonlinear Control__, *Under Review*
-* H. Lee, __J. Ban__, S.W. Kim, "Microgrid Optimal Scheduling Considering Remaining Useful Life and Performance Degradation of Distributed Generators", __IEEE Transactions on Smart Grid__, *Under Review*
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
-* 
+* S. Jeong, __J. Ban__, "Design of robust dynamic output feedback event-triggering controllers for nonlinear uncertain systems," *Uncer Review*
+
 ### Conference Articles
 * __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power Flow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
 * M. Seo, __J. Ban__, S.W. Kim, *Vertex-wise NLMS Algorithm for Signal Reconstruction of DC Power Flow*, IEEE PES Asia-Pacific Power and Energy Engineering Conference, Macao, China, 2019.
