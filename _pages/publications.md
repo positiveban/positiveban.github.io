@@ -27,7 +27,7 @@ author_profile: true
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
 * __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", __International Journal of Robust and Nonlinear Control__, *Under Review*
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Systems__, *Under Review*
-* S. Jeong, __J. Ban__, "Design of robust dynamic output feedback event-triggering controllers for nonlinear uncertain systems," *Uncer Review*
+* S. Jeong, __J. Ban__, "Design of robust dynamic output feedback event-triggering controllers for nonlinear uncertain systems," *Under Review*
 
 ### Conference Articles
 * __J. Ban__, H. Lee, H. Jeong, S.W. Kim, *Optimal Power Flow for Microgrids with Faulty Generators*, IEEE International Conference on Power and Energy Systems, Perth, Austrailia, 2019.
