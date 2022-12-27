@@ -8,13 +8,13 @@ author_profile: true
 
 
 ### Journal Articles
-* S. Jeong, __J. Ban*__, "Robust reset controller design for switched nonlinear uncertain systems," __IEEE Access__, Early Access, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3228245)
+* S. Jeong, __J. Ban*__, "Robust reset controller design for switched nonlinear uncertain systems," __IEEE Access__, vol. 10, pp. 129382-129393, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3228245)
 * __J. Ban__, J.Y. Park, Y.J. Kim, J.P.S. Catalão, "AMI Data-driven Strategy for Hierarchical Estimation of Distribution Line Impedances", __IEEE Transactions on Power Delivery__ Early acess, 2022 [(Link)](https://doi.org/10.1109/TPWRD.2022.3195075)
-* S. Jeong, __J. Ban*__, H. Lee, "Design of Robust Dynamic Output Feedback Event-triggering Controllers for Nonlinear Uncertain Systems," __IEEE Access__, Early Access, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3195991)
+* S. Jeong, __J. Ban*__, H. Lee, "Design of Robust Dynamic Output Feedback Event-triggering Controllers for Nonlinear Uncertain Systems," __IEEE Access__,  vol. 10, pp. 82132-82143, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3195991)
 * G.H. Lee, J.Y. Park, __J. Ban__, Y.J. Kim, J.P.S. Catalão, "Data-driven Modeling and Optimal Control of Hydrogen Energy Storage for Frequency Regulation", __IEEE Transactions on Energy Conversion__ Early Access, 2022 [(Link)](https://doi.org/10.1109/TEC.2022.3221165)
-* S. Jeong, __J. Ban*__, "Robust Dynamic Output Feedback Event-Triggering Synchronization for Complex Dynamical Networks," __IEEE Access__, Early Access, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3173648)
-* H. Lee, __J. Ban__, S.W. Kim, "Microgrid Optimal Scheduling Considering Remaining Useful Life and Performance Degradation of Distributed Generators", __IEEE Access__, Early Access, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3167037)
-* J.Y. Park, __J. Ban__, Y.J. Kim, J.P.S. Catalão, "Supplementary Feedforward Voltage Control in a Reconfigurable Distribution Network using Robust Optimization", __IEEE Transactions on Power Systems__ 99, 1-12, 2022 [(Link)](https://doi.org/10.1109/TPWRS.2022.3149524)
+* S. Jeong, __J. Ban*__, "Robust Dynamic Output Feedback Event-Triggering Synchronization for Complex Dynamical Networks," __IEEE Access__, vol. 10, pp. 51261-51271, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3173648)
+* H. Lee, __J. Ban__, S.W. Kim, "Microgrid Optimal Scheduling Considering Remaining Useful Life and Performance Degradation of Distributed Generators", __IEEE Access__, vol. 10, pp. 39362-39375, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3167037)
+* J.Y. Park, __J. Ban__, Y.J. Kim, J.P.S. Catalão, "Supplementary Feedforward Voltage Control in a Reconfigurable Distribution Network using Robust Optimization", __IEEE Transactions on Power Systems__ 37(6), 4385-4399, 2022 [(Link)](https://doi.org/10.1109/TPWRS.2022.3149524)
 * J.Y. Park, __J. Ban__, Y.J. Kim, X. Lu, "Supplementary Feedforward Control of DGs in a Reconfigurable Microgrid for Load Restoration", __IEEE Transactions on Smart Grid__ 12(6), 4641-4654, 2021 [(Link)](https://doi.org/10.1109/TSG.2021.3098570)
 * M. Seo, __J. Ban__, M. Cho, B. Y. Koo, S. W. Kim, "Low-Order Model Identification and Adaptive Observer-Based Predictive Control for Strip Temperature of Heating Section in Annealing Furnace," __IEEE Access__, vol. 9, pp. 53720-53734, 2021 [(Link)](https://doi.org/10.1109/ACCESS.2021.3071124)
 * __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__ 36(5): 4645-4659, 2021 [(Link)](https://doi.org/10.1109/TPWRS.2021.3068607)
