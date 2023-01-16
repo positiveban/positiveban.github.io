@@ -31,7 +31,7 @@ During Ph.D: [Intelligent Control and Systems Laboratory](https://icsl.postech.a
 
 Selected publications
 =====================
-* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems using Piecewise Quadratic Lyapunov Functions", __International Journal of Robust and Nonlinear Control__, 2022.
+* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems using Piecewise Quadratic Lyapunov Functions", __International Journal of Robust and Nonlinear Control__, Early access, 2022.
 * __J. Ban__, J.Y Park, Y.J. Kim, J.P.S. Catala͂o, "Hierarchical Estimation of Distribution Line Impedances Using AMI and Reinforcement Learning", __IEEE Transactions on Power Delivery__, Early access, 2022.
 * __J. Ban__, J. Im, Y.J. Kim, Z. Zhao, "Decentralization of Phasor-Aided State Estimation Using Local State Extension", __IEEE Transactions on Power Systems__ 36-5: 4645-4659, 2021.
 * __J. Ban__, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", __Automatica__, 111, 2020.
