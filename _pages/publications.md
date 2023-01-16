@@ -8,6 +8,7 @@ author_profile: true
 
 
 ### Journal Articles
+* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems using Piecewise Quadratic Lyapunov Functions", __International Journal of Robust and Nonlinear Control__, Early access, 2022 [(Link)](https://doi.org/10.1002/rnc.6590)
 * S. Jeong, __J. Ban*__, "Robust reset controller design for switched nonlinear uncertain systems," __IEEE Access__, vol. 10, pp. 129382-129393, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3228245)
 * __J. Ban__, J.Y. Park, Y.J. Kim, J.P.S. Catalão, "AMI Data-driven Strategy for Hierarchical Estimation of Distribution Line Impedances", __IEEE Transactions on Power Delivery__ Early acess, 2022 [(Link)](https://doi.org/10.1109/TPWRD.2022.3195075)
 * S. Jeong, __J. Ban*__, H. Lee, "Design of Robust Dynamic Output Feedback Event-triggering Controllers for Nonlinear Uncertain Systems," __IEEE Access__,  vol. 10, pp. 82132-82143, 2022 [(Link)](https://doi.org/10.1109/ACCESS.2022.3195991)
@@ -26,7 +27,6 @@ author_profile: true
 * W.K. Kwon, __J. Ban__, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", __Mathematical Problems in Engineering__, 2017 [(Link)](https://doi.org/10.1155/2017/7343575)
 
 ### Journal Articles (in progress)
-* __J. Ban__, M. Seo, S.W. Kim, Y.J. Kim, "H2 Reset Controller Design for Linear Systems", __International Journal of Robust and Nonlinear Control__, *Under Review*
 * __J. Ban__, S.W. Kim, "Observer design of descriptor impulsive systems", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Stability and Stabilization of Singular Hybrid Linear Systems: An LMI Approach", *Under Preparation*
 * __J. Ban__, S.W. Kim, "Reachability and State-feedback Stabilization of Descriptor Impulsive Linear Systems", *Under Review*
