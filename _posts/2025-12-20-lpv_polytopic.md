@@ -2,7 +2,7 @@
 title: "Polytopic LPV for SRMs"
 categories: 제어
 tags: Linear-algebra, Control-Theory
-date: 2016-10-05 10:00:00
+date: 2025-12-19 10:00:00
 permalink: /posts/2025/12/polyLPVSRM/
 excerpt: "Linear parameter varying, switched reluctance cmotors."
 ---
